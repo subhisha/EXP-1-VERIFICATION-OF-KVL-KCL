@@ -38,43 +38,34 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 
 a.   KVL:
-<img width="562" height="300" alt="image" src="https://github.com/user-attachments/assets/539d3303-4fab-4b43-8a81-facebf63d067" />
+<img width="958" height="812" alt="image" src="https://github.com/user-attachments/assets/b5cc714d-1246-4b77-b437-867f3f01731b" />
+<img width="832" height="405" alt="image" src="https://github.com/user-attachments/assets/9f53430d-ddfb-45a0-b318-4565fe0f22a1" />
 
 b.  KCL:
-<img width="558" height="351" alt="image" src="https://github.com/user-attachments/assets/c6f1d1a8-e6af-4b80-9f7d-d1e8a8ed7acc" />
+<img width="1007" height="827" alt="image" src="https://github.com/user-attachments/assets/31673133-3f04-4c4e-b9e4-b508d27c068c" />
+<img width="925" height="511" alt="image" src="https://github.com/user-attachments/assets/45465fe1-49ea-494a-9f91-8e2c5b9f4ec5" />
 
 Calculation:
 
-
 a.   KVL:
- <img width="553" height="281" alt="image" src="https://github.com/user-attachments/assets/e11ff0fa-b2c9-416f-9d38-07616958ba0d" />
-
-
+ <img width="988" height="717" alt="image" src="https://github.com/user-attachments/assets/25e73224-0bd3-40bb-9eae-57fdb7ab3357" />
+ <img width="910" height="267" alt="image" src="https://github.com/user-attachments/assets/bd66f9e4-c0c3-4043-a74f-484529b15e55" />
 
 b.  KCL:
+<img width="977" height="795" alt="image" src="https://github.com/user-attachments/assets/25a1264f-b879-4f9e-8857-19ad9c525ec9" />
+<img width="942" height="275" alt="image" src="https://github.com/user-attachments/assets/6aabdf9e-47f2-405c-a404-1a3404f0c920" />
+<img width="962" height="693" alt="image" src="https://github.com/user-attachments/assets/e2a554f0-5fbf-4075-bb7d-79e87f05cac2" />
 
+Calculation:
+KVL:
+<img width="1011" height="473" alt="image" src="https://github.com/user-attachments/assets/b860ba66-de9c-4748-b490-796ce7f7a0b3" />
 
-<img width="568" height="713" alt="image" src="https://github.com/user-attachments/assets/3a90a89a-beff-4338-a14b-6b7e6ab647c9" />
-
-Tabulation:
-
-
-
-a.   KVL:
- <img width="412" height="205" alt="image" src="https://github.com/user-attachments/assets/173fb7e6-8092-4c93-ac42-ef0e2ee58bfb" />
-
-
-
-b.  KCL:
-<img width="358" height="112" alt="image" src="https://github.com/user-attachments/assets/5621c7bb-09a1-4a22-957f-03161c264a79" />
-
-
-
+KCL:
+<img width="997" height="412" alt="image" src="https://github.com/user-attachments/assets/ed032cf9-92eb-402c-9012-2144a7a9a4ad" />
 
 RESULT:
 
