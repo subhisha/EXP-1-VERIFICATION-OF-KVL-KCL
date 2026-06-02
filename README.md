@@ -39,43 +39,31 @@ b.  KCL:
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
+a.KVL:
+<img width="1044" height="785" alt="Screenshot 2026-06-02 194444" src="https://github.com/user-attachments/assets/44c7c23c-a56c-4f08-9897-5ce82b0b7657" />
+<img width="866" height="406" alt="image" src="https://github.com/user-attachments/assets/7bd24443-0c1a-4375-a134-b9a4bd009c18" />
 
-CIRCUIT DIAGRAM:
-
-a.   KVL:
-<img width="562" height="300" alt="image" src="https://github.com/user-attachments/assets/539d3303-4fab-4b43-8a81-facebf63d067" />
-
-b.  KCL:
-<img width="558" height="351" alt="image" src="https://github.com/user-attachments/assets/c6f1d1a8-e6af-4b80-9f7d-d1e8a8ed7acc" />
+b.KCL:
+<img width="1033" height="823" alt="image" src="https://github.com/user-attachments/assets/60f92d8a-c780-4b86-bdd7-8c77d1a1e6a6" />
+<img width="957" height="435" alt="image" src="https://github.com/user-attachments/assets/08d55cef-7552-4f35-95d4-5e86701a5794" />
 
 Calculation:
 
+a.KVL:
+<img width="1025" height="731" alt="image" src="https://github.com/user-attachments/assets/160f2b10-086d-46f4-8c5f-58881c5e92f2" />
+<img width="953" height="298" alt="image" src="https://github.com/user-attachments/assets/22db2f3f-ebf3-4800-b9cb-dde35e0987db" />
 
-a.   KVL:
- <img width="553" height="281" alt="image" src="https://github.com/user-attachments/assets/e11ff0fa-b2c9-416f-9d38-07616958ba0d" />
-
-
-
-b.  KCL:
-
-
-<img width="568" height="713" alt="image" src="https://github.com/user-attachments/assets/3a90a89a-beff-4338-a14b-6b7e6ab647c9" />
+b.KCL:
+<img width="1040" height="825" alt="image" src="https://github.com/user-attachments/assets/f6754a6a-c5f2-454d-81d5-73146218c70b" />
+<img width="932" height="272" alt="image" src="https://github.com/user-attachments/assets/4f3aab35-430c-47e7-88a7-3c9a7406ee07" />
+<img width="1048" height="666" alt="image" src="https://github.com/user-attachments/assets/303806d3-26e1-4fb0-8d80-6ca85ad86dde" />
 
 Tabulation:
+a.KVL:
+<img width="1043" height="462" alt="image" src="https://github.com/user-attachments/assets/4ad6e53a-3889-4397-bd5a-fd41fc0e3bf9" />
 
-
-
-a.   KVL:
- <img width="412" height="205" alt="image" src="https://github.com/user-attachments/assets/173fb7e6-8092-4c93-ac42-ef0e2ee58bfb" />
-
-
-
-b.  KCL:
-<img width="358" height="112" alt="image" src="https://github.com/user-attachments/assets/5621c7bb-09a1-4a22-957f-03161c264a79" />
-
-
-
+b.KCL:
+<img width="1038" height="425" alt="image" src="https://github.com/user-attachments/assets/43a11936-604d-4280-a890-56b76293b69a" />
 
 RESULT:
-
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
